@@ -1,6 +1,7 @@
 # Third-Party Licenses
 
 The Codiew.io platform uses open-source software from:
-- [JetBrains Icons](https://intellij-icons.jetbrains.design/)
-- Code fragments of  [rrweb.io](https://www.rrweb.io)
+- Jetbrains Icons [JetBrains Icons](https://intellij-icons.jetbrains.design/)
+- Rrweb code fragments  [rrweb.io](https://www.rrweb.io)
+- Rrweb code fragments  [rrweb.io](https://www.rrweb.io)
 
