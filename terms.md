@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 **1. Introduction**
 Codiew values your privacy. This Privacy Policy details important information regarding the use and disclosure of your information collected on [codiew.io](https://codiew.io). This Privacy Policy is incorporated into and is subject to Codiew’s Terms of Service. Your use of [codiew.io](https://codiew.io) and any personal information you provide on or through [codiew.io](https://codiew.io) remains subject to this Privacy Policy and Codiew’s Terms of Service.
